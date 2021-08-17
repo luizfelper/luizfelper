@@ -3,7 +3,7 @@
 - 🔭 Trabalho e estudo atualmete com front-end (HTML, CSS, Javascript, PHP, Wordpress).
 - 🌱 Estudando JS, React, NextJS
 - 🤔 Buscando aprender mais sobre Javascript e Typescript
-- 💬 contate-me no email: luizfelper@gmail.com
+- 💬 Contacte-me no email: luizfelper@gmail.com
 - 📫 Minhas redes: linkedin.com/in/luizfelper/ | twitter.com/feelper
 
 ##
