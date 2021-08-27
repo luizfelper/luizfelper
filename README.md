@@ -1,4 +1,4 @@
-### Olá mundo!!! Eu sou Felipe Fontenele 👋.
+### Olá! Me chamo Felipe Fontenele, desenvolvedor WEB. No momento focado em React e NextJS 👋.
 
 - 🔭 Trabalho e estudo atualmete com front-end (HTML, CSS, Javascript, PHP, Wordpress).
 - 🌱 Estudando JS, React, NextJS
