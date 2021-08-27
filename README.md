@@ -1,6 +1,6 @@
 ### Olá! Me chamo Felipe Fontenele, desenvolvedor WEB. No momento focado em React e NextJS 👋.
 
-- 🔭 Trabalho e estudo atualmete com front-end (HTML, CSS, Javascript, PHP, Wordpress).
+- 🔭 Trabalho e estudo atualmete como front-end (HTML, CSS, Javascript, PHP, Wordpress, React e NextJS).
 - 🌱 Estudando JS, React, NextJS
 - 🤔 Buscando aprender mais sobre Javascript e Typescript
 - 💬 Contacte-me no email: luizfelper@gmail.com
