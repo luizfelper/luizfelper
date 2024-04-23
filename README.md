@@ -4,7 +4,7 @@
 - 🌱 Estudando C# .NET ASP.CORE, NodeJS, Java e TypeScript.
 - 🤔 Buscando aprender mais e mais sobre C# .NET ASP.CORE, Node, Javascript, Typescript, Git e Java Spring Boot.
 - 💬 Contacte-me no email: luizfelper@gmail.com
-- 📫 Minhas redes: linkedin.com/in/luizfelper/ | twitter.com/feelper | https://www.instagram.com/luiz.fontenele/
+- 📫 Minhas redes: https://www.linkedin.com/in/luizfelper/ | https://www.x.com/feelper | https://www.instagram.com/luiz.fontenele/
 
 ##
 
