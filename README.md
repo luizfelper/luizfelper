@@ -2,9 +2,9 @@
 
 - 🔭 Trabalho e estudo atualmete como Full Stack Developer usando Typescript, Javascript, C# .NET ASP.CORE, ReactJS, NextJS, Firebase, Express, Node, HTML, CSS, PHP e Wordpress).
 - 🌱 Estudando C# .NET ASP.CORE, NodeJS, Java e TypeScript.
-- 🤔 Buscando aprender mais e mais sobre Node, Javascript, Typescript, Git e Java Spring Boot.
+- 🤔 Buscando aprender mais e mais sobre C# .NET ASP.CORE, Node, Javascript, Typescript, Git e Java Spring Boot.
 - 💬 Contacte-me no email: luizfelper@gmail.com
-- 📫 Minhas redes: linkedin.com/in/luizfelper/ | twitter.com/feelper
+- 📫 Minhas redes: linkedin.com/in/luizfelper/ | twitter.com/feelper | https://www.instagram.com/luiz.fontenele/
 
 ##
 
