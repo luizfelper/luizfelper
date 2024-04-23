@@ -1,7 +1,7 @@
 ### Olá! Me chamo Felipe Fontenele, desenvolvedor WEB. No momento focado em React e NextJS 👋.
 
 - 🔭 Trabalho e estudo atualmete como Full Stack Developer usando Typescript, Javascript, C# .NET ASP.CORE, ReactJS, NextJS, Firebase, Express, Node, HTML, CSS, PHP e Wordpress).
-- 🌱 Estudando NodeJS, Java e TypeScript.
+- 🌱 Estudando C# .NET ASP.CORE, NodeJS, Java e TypeScript.
 - 🤔 Buscando aprender mais e mais sobre Node, Javascript, Typescript, Git e Java Spring Boot.
 - 💬 Contacte-me no email: luizfelper@gmail.com
 - 📫 Minhas redes: linkedin.com/in/luizfelper/ | twitter.com/feelper
