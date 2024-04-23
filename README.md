@@ -19,11 +19,12 @@
 <div style="display: inline_block">
   <img align="center" alt="felperTS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />  
   <img align="center" alt="felperJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />  
+  <img align="center" alt="felperC#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> 
   <img align="center" alt="felperReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
-  <img align="center" alt="felperReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> 
-  <img align="center" alt="felperReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="felperNextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> 
+  <img align="center" alt="felperFireBase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="felperExpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-  <img align="center" alt="felperExpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="felperNode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="felperHTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
   <img align="center" alt="felperCSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
   
